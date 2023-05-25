@@ -1,0 +1,21 @@
+.body {
+    background-image: url(background.gif);
+    background-position: bottom;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.char1 {
+    height: 200px;
+}
+
+.char2 {
+    height: 200px;
+}
+
+.main-div {
+    margin-top: 30%;
+    display: flex;
+    justify-content: space-evenly;
+}
